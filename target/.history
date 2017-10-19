@@ -1,0 +1,11 @@
+run
+compile
+clean
+exit
+help
+run
+sbt
+exit
+run
+exit
+run
